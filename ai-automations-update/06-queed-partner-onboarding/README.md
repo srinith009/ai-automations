@@ -2,7 +2,6 @@
 
 A working prototype that onboards a new installation partner for **Queed** (smart electricity meters, Saudi Arabia) with no manual copy-pasting. Built as an answer to *"How would you automate the onboarding of a new installation partner?"*
 
-▶️ **2-minute walkthrough:** [Loom link]
 
 ## What happens when a partner applies
 
